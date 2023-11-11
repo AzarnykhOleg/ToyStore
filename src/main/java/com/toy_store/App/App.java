@@ -1,9 +1,9 @@
-package com.toys_market.App;
+package com.toy_store.App;
 
-import com.toys_market.Accessory.ToysRandom;
-import com.toys_market.Presenter.PresenterConsole;
-import com.toys_market.View.ConsoleView;
-import com.toys_market.View.View;
+import com.toy_store.Accessory.ToysRandom;
+import com.toy_store.Presenter.PresenterConsole;
+import com.toy_store.View.ConsoleView;
+import com.toy_store.View.View;
 
 public class App {
     View view;

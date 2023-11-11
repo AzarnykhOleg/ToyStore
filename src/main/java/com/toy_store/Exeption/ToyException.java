@@ -1,4 +1,4 @@
-package com.toys_market.Exeption;
+package com.toy_store.Exeption;
 
 public class ToyException extends RuntimeException{
 

@@ -1,4 +1,4 @@
-package com.toys_market.Shop;
+package com.toy_store.Shop;
 /**
  * Toy for shop
  */

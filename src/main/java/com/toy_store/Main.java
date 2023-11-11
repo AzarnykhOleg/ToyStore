@@ -1,6 +1,6 @@
-package com.toys_market;
+package com.toy_store;
 
-import com.toys_market.App.App;
+import com.toy_store.App.App;
 
 public class Main {
     public static void main(String[] args) {

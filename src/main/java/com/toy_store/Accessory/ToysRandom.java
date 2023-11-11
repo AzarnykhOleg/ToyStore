@@ -1,6 +1,6 @@
-package com.toys_market.Accessory;
+package com.toy_store.Accessory;
 import java.util.Collection;
-import com.toys_market.Shop.Toy;
+import com.toy_store.Shop.Toy;
 import java.util.Random;
 
 public class ToysRandom implements Lototron<Toy> {

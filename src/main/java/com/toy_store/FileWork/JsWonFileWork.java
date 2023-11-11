@@ -1,4 +1,4 @@
-package com.toys_market.FileWork;
+package com.toy_store.FileWork;
 
 import java.io.FileReader;
 import java.io.File;
@@ -7,8 +7,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 import com.google.gson.Gson;
-import com.toys_market.Shop.ToyController;
-import com.toys_market.Shop.WonToyController;
+import com.toy_store.Shop.ToyController;
+import com.toy_store.Shop.WonToyController;
 
 public class JsWonFileWork implements FileWork<WonToyController> {
     Gson gson;

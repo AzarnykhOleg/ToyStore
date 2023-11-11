@@ -1,9 +1,9 @@
-package com.toys_market.FileWork;
+package com.toy_store.FileWork;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-import com.toys_market.Shop.ToyController;
+import com.toy_store.Shop.ToyController;
 
 public interface FileWork<T extends ToyController> {
     

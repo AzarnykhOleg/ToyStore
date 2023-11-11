@@ -1,21 +1,21 @@
-package com.toys_market.Presenter;
+package com.toy_store.Presenter;
 
 import java.util.ArrayList;
 import java.util.Map;
 import java.util.PriorityQueue;
 
-import com.toys_market.Accessory.ToyParser;
-import com.toys_market.Accessory.ToysRandom;
-import com.toys_market.Exeption.ToyException;
-import com.toys_market.Exeption.ToyFrequencyException;
-import com.toys_market.Exeption.ToyParseException;
-import com.toys_market.FileWork.FileWork;
-import com.toys_market.FileWork.JsShopFileWork;
-import com.toys_market.FileWork.JsWonFileWork;
-import com.toys_market.Shop.Toy;
-import com.toys_market.Shop.ToyController;
-import com.toys_market.Shop.WonToyController;
-import com.toys_market.View.View;
+import com.toy_store.Accessory.ToyParser;
+import com.toy_store.Accessory.ToysRandom;
+import com.toy_store.Exeption.ToyException;
+import com.toy_store.Exeption.ToyFrequencyException;
+import com.toy_store.Exeption.ToyParseException;
+import com.toy_store.FileWork.FileWork;
+import com.toy_store.FileWork.JsShopFileWork;
+import com.toy_store.FileWork.JsWonFileWork;
+import com.toy_store.Shop.Toy;
+import com.toy_store.Shop.ToyController;
+import com.toy_store.Shop.WonToyController;
+import com.toy_store.View.View;
 
 public class PresenterConsole {
     private View view;

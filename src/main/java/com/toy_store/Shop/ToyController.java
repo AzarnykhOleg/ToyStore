@@ -1,11 +1,11 @@
-package com.toys_market.Shop;
+package com.toy_store.Shop;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
 
-import com.toys_market.Exeption.ToyException;
-import com.toys_market.Exeption.ToyFrequencyException;
+import com.toy_store.Exeption.ToyException;
+import com.toy_store.Exeption.ToyFrequencyException;
 
 public class ToyController {
     private PriorityQueue<Toy> toys;

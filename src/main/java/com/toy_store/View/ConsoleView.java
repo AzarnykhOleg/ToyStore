@@ -1,4 +1,4 @@
-package com.toys_market.View;
+package com.toy_store.View;
 
 import java.util.Scanner;
 

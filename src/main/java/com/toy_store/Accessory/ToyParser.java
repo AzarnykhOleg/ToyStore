@@ -1,7 +1,7 @@
-package com.toys_market.Accessory;
+package com.toy_store.Accessory;
 
-import com.toys_market.Exeption.ToyParseException;
-import com.toys_market.Shop.Toy;
+import com.toy_store.Exeption.ToyParseException;
+import com.toy_store.Shop.Toy;
 
 public class ToyParser {
     private String[] list;
